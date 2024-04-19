@@ -23,8 +23,8 @@ Soy Erika Alvares
 Una ingeniera informática apasionada por las TICs, en especial por la ingeniería de datos y la gestión de proyectos. Detrás de mi sonrisa hay una mente analítica y detallista, lista para enfrentar cualquier desafío que se presente.
 
 * 🌍  Vivo en Madrid
-* 🧠  Estoy aprendiendo Análisis de Datos, Python, Desarrollo Web con Python
-* 🤝  Estoy abierto a colaborar en Data Analytics, Python, Power BI, etc.
+* 🧠  ¡Estoy aprendiendo Análisis de Datos, Desarrollo Web con Python y mucho más, no paro porque me encanta estudiar!
+* 🤝  Estoy abierta a colaborar en proyectos de Data Analytics, Python, Power BI, etc.
 * ⚡  Nacida en Brasil, ahora vivo en Madrid con mi esposo y mi pequeña inspiración, Julia. ¡Un hogar lleno de amor y bits!
 
 <a href="https://www.github.com/ea-analisisdatos" target="_blank" rel="noreferrer"><img
