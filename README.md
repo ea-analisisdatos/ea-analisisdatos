@@ -15,7 +15,6 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
 
 ## 📫 Cómo Contactarme
 
-
 <a href="https://www.linkedin.com/in/erikaalvares" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-erikaalvares-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
@@ -38,9 +37,6 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
   <img src="https://img.shields.io/badge/Telegram-Canal%20de%20Erika%20Alvares-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" />
 </a>
 
-
-
-
 ## 🌱 Actualmente Aprendiendo
 
 - Inteligencia Artificial.
@@ -51,7 +47,6 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
 ## 📚 Proyectos
 
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
-
 
 | Repositorio | Descripción | Origen | Trabajo en Equipo? |
 |-------------|-------------|--------|--------------------|
@@ -69,8 +64,16 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
 ---
 
-### Habilidades
+### Últimas Entradas del Blog
 
+Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
+
+- [Artículos sobre Ciencia de Datos y más](https://www.erikaalvares.es/articulos)  
+- [Análisis Exploratorio en Python](https://www.erikaalvares.es/proyectos/analisis-exploratorio-en-python)  
+
+---
+
+### Habilidades
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
@@ -82,10 +85,7 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
 <b>Atualizaciones</b>
 
-
-
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ea-analisisdatos&show_icons=true&theme=radical)
-
 
 <b>Contribuciones</b>
 
@@ -94,13 +94,6 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 <b>Lenguages de Programación más utilizadas</b>
 
 ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ea-analisisdatos&layout=compact&theme=radical)
-
-<b>Principales repositorios</b>
-
-<div width="100%" align="center">
-<a href="https://github.com/ea-analisisdatos/proyectos" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=000000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ea-analisisdatos/Python-Full-Stack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=Python-Full-Stack&title_color=000000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
 
 ---
 
