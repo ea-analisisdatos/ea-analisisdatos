@@ -56,9 +56,9 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 | Repositorio | Descripción | Origen | Trabajo en Equipo? |
 |-------------|-------------|--------|--------------------|
 | [Proyectos](https://github.com/ea-analisisdatos/proyectos) | Portfolio de proyectos en Ciencia de Datos. | Por cuenta propia | Sí |
-| [Proyecto: Generador de Contenido Multilingüe](https://github.com/ea-analisisdatos/multilingual_content_generator) | Solución dirigida a creadores de contenido y profesionales del marketing para automatizar flujos de creación y personalización. | Por cuenta propia | No |
+| [Generador de Contenido Multilingüe](https://github.com/ea-analisisdatos/multilingual_content_generator) | Solución dirigida a creadores de contenido y profesionales del marketing para automatizar flujos de creación y personalización. | Por cuenta propia | No |
 | [Python Full Stack](https://github.com/ea-analisisdatos/Python-Full-Stack) | Certificado SkillsBuild - IBM - Curso Python Full Stack abril 2024. | Bejob IBM | No |
-| [Proyecto: Genera Poemas con Inteligencia Artificial](https://github.com/ea-analisisdatos/GeneraPoemasAI) | Prototipo para la creación de poemas personalizados mediante inteligencia artificial. Explora el potencial de la IA en creatividad literaria bajo entornos con recursos limitados. | Por cuenta propia | No |
+| [Genera Poemas con Inteligencia Artificial](https://github.com/ea-analisisdatos/GeneraPoemasAI) | Prototipo para la creación de poemas personalizados mediante inteligencia artificial. Explora el potencial de la IA en creatividad literaria bajo entornos con recursos limitados. | Por cuenta propia | No |
 | [Escuela de Música Armonía](https://github.com/AI-School-F5-P3/grupo5_musica_armonia) | Proyecto sobre la implementación de una solución para gestionar una escuela de música. | Factoría F5 | Sí |
 | [Regresión Lineal y Modelos de Evaluación](https://github.com/AI-School-F5-P3/ML_RegresionLineal_Lasso_Ridge_Evaluacion_Modelos_Regresion_Grupo3) | Proyecto de Machine Learning con regresión lineal, Lasso y Ridge. | Factoría F5 | Sí |
 | [Análisis de Satisfacción en Aerolíneas](https://github.com/AI-School-F5-P3/G1_ML_Airline) | Predicción de satisfacción de clientes usando modelos de ML. | Factoría F5 | Sí |
