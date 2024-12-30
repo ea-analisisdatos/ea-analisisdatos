@@ -1,5 +1,5 @@
 # Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-Bienvenid@ a mi HARD SKILLS<br>
+Bienvenid@ a mi HARD SKILLS
 <a href="https://www.github.com/ea-analisisdatos" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ea-analisisdatos?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 ---
@@ -13,6 +13,33 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
 * 🤝  Estoy abierta a colaborar en proyectos de Data Analytics, Python, Power BI, etc.  
 * ⚡  Nacida en Brasil, ahora vivo en Madrid con mi esposo y mi pequeña inspiración, Julia. ¡Un hogar lleno de amor y bits!  
 
+## 📫 Cómo Contactarme
+
+
+<a href="https://www.linkedin.com/in/erikaalvares" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-erikaalvares-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://buymeacoffee.com/erika_alvares" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-erika__alvares-orange?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy me a coffee" />
+</a>
+<a href="https://www.erikaalvares.es" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Website-erikaalvares.es-red?style=for-the-badge&logo=google-chrome" alt="Website" />
+</a>
+<a href="https://huggingface.co/erika-alvares" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Hugging%20Face-erika--alvares-yellow?style=for-the-badge&logo=huggingface" alt="Hugging Face" />
+</a>
+<a href="https://www.kaggle.com/datatecherikaalvares" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Kaggle-datatecherikaalvares-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+</a>
+<a href="https://medium.com/@erikaalvares.portafolioweb" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Medium-erikaalvares.portafolioweb-black?style=for-the-badge&logo=medium" alt="Medium" />
+</a>
+<a href="https://t.me/+N3RlOTstV3ZjNDI0" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-Canal%20de%20Erika%20Alvares-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" />
+</a>
+
+
+
 
 ## 🌱 Actualmente Aprendiendo
 
@@ -25,42 +52,20 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
 
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
-### [Proyecto: Generador de Contenido Multilingüe](https://github.com/ea-analisisdatos/multilingual_content_generator)
 
-Este proyecto tiene como objetivo aprender como se integran los modelos preentrenados con una interface grafica implementada con **Streamlit** para la generación automatizada de contenidos en múltiples idiomas. El trabajo es desarrollado en  **Python**, combina:
-
-- **Búsqueda de imágenes** mediante las APIs de **Unsplash** y **Pixabay**.
-- **Generación de texto** utilizando modelos avanzados de **NLP** como GPT.
-- **Pruebas automatizadas** para garantizar calidad y precisión.
-
-Es una solución dirigida a creadores de contenido y profesionales del marketing que buscan automatizar flujos de creación y personalización.
-
-### [Proyecto: Genera Poemas con Inteligencia Artificial](https://github.com/ea-analisisdatos/GeneraPoemasAI)
-
-Este proyecto es un prototipo para la creación de poemas personalizados mediante inteligencia artificial. Algunas características:
-
-- **Generación de poemas** usando modelos de **NLP**,  ajustados para ejecución en **Google Colab** (versión gratuita).
-- **Optimización para recursos limitados**: restringe el número de tokens (cantidad de palabras) debido a las limitaciones de hardware.
-- **Retorno en pantalla**: resultados directos en texto, sin necesidad de interfaces avanzadas o APIs externas.
-
-Es un enfoque simple y práctico que explora el potencial de la IA en la creatividad literaria bajo entornos con recursos limitados.
+| Repositorio | Descripción | Origen | Trabajo en Equipo? |
+|-------------|-------------|--------|--------------------|
+| [Proyectos](https://github.com/ea-analisisdatos/proyectos) | Portfolio de proyectos en Ciencia de Datos. | Por cuenta propia | Sí |
+| [Proyecto: Generador de Contenido Multilingüe](https://github.com/ea-analisisdatos/multilingual_content_generator) | Solución dirigida a creadores de contenido y profesionales del marketing para automatizar flujos de creación y personalización. | Por cuenta propia | No |
+| [Python Full Stack](https://github.com/ea-analisisdatos/Python-Full-Stack) | Certificado SkillsBuild - IBM - Curso Python Full Stack abril 2024. | Bejob IBM | No |
+| [Proyecto: Genera Poemas con Inteligencia Artificial](https://github.com/ea-analisisdatos/GeneraPoemasAI) | Prototipo para la creación de poemas personalizados mediante inteligencia artificial. Explora el potencial de la IA en creatividad literaria bajo entornos con recursos limitados. | Por cuenta propia | No |
+| [Escuela de Música Armonía](https://github.com/AI-School-F5-P3/grupo5_musica_armonia) | Proyecto sobre la implementación de una solución para gestionar una escuela de música. | Factoría F5 | Sí |
+| [Regresión Lineal y Modelos de Evaluación](https://github.com/AI-School-F5-P3/ML_RegresionLineal_Lasso_Ridge_Evaluacion_Modelos_Regresion_Grupo3) | Proyecto de Machine Learning con regresión lineal, Lasso y Ridge. | Factoría F5 | Sí |
+| [Análisis de Satisfacción en Aerolíneas](https://github.com/AI-School-F5-P3/G1_ML_Airline) | Predicción de satisfacción de clientes usando modelos de ML. | Factoría F5 | Sí |
+| [Web Scraping](https://github.com/AI-School-F5-P3/WebScraping_ErikaAlvares) | Extracción de datos automatizada desde la web para análisis. | Factoría F5 | No |
 
 ---
 ***¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o idea de colaboración!***
-
----
-
-## 📫 Cómo Contactarme
-
-<a href="https://www.linkedin.com/in/erikaalvares" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-erikaalvares-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://buymeacoffee.com/erika_alvares" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-erika__alvares-orange?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy me a coffee" />
-</a>
-<a href="https://www.erikaalvares.es" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Website-erikaalvares.es-red?style=for-the-badge&logo=google-chrome" alt="Website" />
-</a>
 
 ---
 
@@ -92,7 +97,12 @@ Es un enfoque simple y práctico que explora el potencial de la IA en la creativ
 
 <b>Principales repositorios</b>
 
-<div width="100%" align="center"><a href="https://github.com/ea-analisisdatos/proyectos" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=000000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ea-analisisdatos/Python-Full-Stack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=Python-Full-Stack&title_color=000000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<b>Principales repositorios</b>
+
+<div width="100%" align="center">
+<a href="https://github.com/ea-analisisdatos/proyectos" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=000000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ea-analisisdatos/Python-Full-Stack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=Python-Full-Stack&title_color=000000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
 
 ---
 
