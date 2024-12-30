@@ -97,8 +97,6 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
 <b>Principales repositorios</b>
 
-<b>Principales repositorios</b>
-
 <div width="100%" align="center">
 <a href="https://github.com/ea-analisisdatos/proyectos" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=000000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ea-analisisdatos/Python-Full-Stack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=Python-Full-Stack&title_color=000000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
