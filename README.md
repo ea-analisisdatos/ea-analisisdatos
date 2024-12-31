@@ -19,11 +19,11 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
 <a href="https://www.erikaalvares.es" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Website-erikaalvares.es-red?style=for-the-badge&logo=google-chrome" alt="Website" />
 </a>
-<a href="https://www.linkedin.com/in/erikaalvares" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 <a href="https://huggingface.co/erika-alvares" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Hugging%20Face-erika--alvares-yellow?style=for-the-badge&logo=huggingface" alt="Hugging Face" />
+</a>
+<a href="https://www.linkedin.com/in/erikaalvares" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.kaggle.com/datatecherikaalvares" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
@@ -56,7 +56,7 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
 - Técnicas avanzadas de aprendizaje automático (Machine Learning).
 - Aprendizaje profundo con TensorFlow y Keras, etc.
 - Mejores prácticas de visualización de datos.
-- Desarrollo Web con Python
+- Desarrollo Web con Python.
 
 
 ## 🌱 Actualmente estoy trabajando en
@@ -73,18 +73,21 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
 | Repositorio | Descripción | Origen | Trabajo en Equipo? |
 |-------------|-------------|--------|--------------------|
-| [Proyectos](https://github.com/ea-analisisdatos/proyectos) | Portfolio de proyectos en Ciencia de Datos. | Por cuenta propia | Sí |
+| [Proyectos](https://github.com/ea-analisisdatos/proyectos) | Portfolio de proyectos en Ciencia de Datos. | Fundación Adecco | Sí |
 | [Gestión de Tareas Pendientes con Python](https://github.com/ea-analisisdatos/Python-Full-Stack/tree/main/caso-practico-final) | Certificado SkillsBuild - IBM - Curso Python Full Stack abril 2024. | Bejob IBM | No |
 | [Genera Poemas con Inteligencia Artificial](https://github.com/ea-analisisdatos/GeneraPoemasAI) | Prototipo para la creación de poemas personalizados mediante inteligencia artificial. Explora el potencial de la IA en creatividad literaria bajo entornos con recursos limitados. | Por cuenta propia | No |
-| [Escuela de Música Armonía](https://github.com/AI-School-F5-P3/grupo5_musica_armonia) | Proyecto sobre la implementación de una solución para gestionar una escuela de música. | Factoría F5 | Sí |
+| [Escuela de Música Armonía](https://github.com/AI-School-F5-P3/grupo5_musica_armonia) | Proyecto sobre la implementación de una solución para gestionar una escuela de música usando DJango. | Factoría F5 | Sí |
 | [Regresión Lineal y Modelos de Evaluación](https://github.com/AI-School-F5-P3/ML_RegresionLineal_Lasso_Ridge_Evaluacion_Modelos_Regresion_Grupo3) | Proyecto de Machine Learning con regresión lineal, Lasso y Ridge. | Factoría F5 | Sí |
-| [Análisis de Satisfacción en Aerolíneas](https://github.com/AI-School-F5-P3/G1_ML_Airline) | Predicción de satisfacción de clientes usando modelos de ML. | Factoría F5 | Sí |
+| [Análisis de Satisfacción en Aerolíneas](https://github.com/AI-School-F5-P3/G1_ML_Airline) | Predicción de satisfacción de clientes usando modelos de Machine Learning. | Factoría F5 | Sí |
 | [Web Scraping](https://github.com/AI-School-F5-P3/WebScraping_ErikaAlvares) | Extracción de datos automatizada desde la web para análisis. | Factoría F5 | No |
+| [Predicción de Fraudes en Tarjetas de Crédito](https://github.com/ea-analisisdatos/Programa_Inteligencia_Artificial) | Tratamiento de datos desbalanceados, uso de algoritmos Random Forest, Regresión Logística, Catboost, XGboost, técnicas de Ensembler, técnicas Undersampling y Oversampling, entrenamiento del modelo con mejor metrica, generación del .pkl y generación de informe en formato .pdf del mejor modelo, exportación automática del cuaderno de google colab en formato .pdf y html. | IBM SkillsBuild y SkillUp Online | No |
 
 ---
 ***¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o idea de colaboración!***
 
 ---
+## - ⚡ Dato curioso: 
+- Me apasiona aprender nuevas habilidades.
 
 ### Últimas Entradas del Blog
 
@@ -118,5 +121,23 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ea-analisisdatos&layout=compact&theme=radical)
 
 ---
+<b>Principales repositorios</b>
+
+<div width="100%" align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <a href="https://github.com/ea-analisisdatos/proyectos">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
+</a>
+<div width="100%" align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <a href="https://github.com/ea-analisisdatos/analisisdatoseventosdeportivos">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=analisisdatoseventosdeportivos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+
+<div width="100%" align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <a href="https://github.com/ea-analisisdatos/fastAPI_RENDER_Template?tab=readme-ov-file">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=fastAPI_RENDER_Template&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
+  </a></div><br />
+  
+---
+
 
 ¡Gracias por visitar mi perfil!
