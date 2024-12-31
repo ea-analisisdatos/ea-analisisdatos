@@ -1,12 +1,21 @@
-# Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-## Bienvenid@ a mi HARD SKILLS
+<h1 align="center">
+  <b>HOLA</b>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35">
+  <br>
+  <b>Bienvenid@ a mi HARD SKILLS</b>
+</h1>
 
-<a href="https://www.github.com/ea-analisisdatos" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ea-analisisdatos?logo=github&style=for-the-badge&color=a855f7&labelColor=54315d" /></a>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54315D&center=true&vCenter=true&width=435&lines=Mi+misi%C3%B3n+es+combinar;%F0%9F%92%A1+%F0%9F%92%A1+++%F0%9F%85%B2REATIVIDAD+%F0%9F%92%A1+%F0%9F%92%A1+;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++%F0%9F%86%83ECNOLOG%C3%8DA++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+;%F0%9F%86%88%F0%9F%86%88%F0%9F%86%88;%F0%9F%93%8A%F0%9F%93%8A+%F0%9F%85%B3ATOS++%F0%9F%93%8A%F0%9F%93%8A;y++%F0%9F%9A%AA+%F0%9F%9A%AA+abrir+puertas++%F0%9F%9A%AA+%F0%9F%9A%AA+a;%F0%9F%8C%9F%F0%9F%8C%9F+NUEVAS+OPORTUNIDADES+%F0%9F%8C%9F%F0%9F%8C%9F" alt="Typing SVG">
+  </a>
+</p>
 
 
 ## Soy Erika Alvares  
+<a href="https://www.github.com/ea-analisisdatos" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ea-analisisdatos?logo=github&style=for-the-badge&color=a855f7&labelColor=54315d" /></a>
+
 Una ingeniera informática con una curiosidad insaciable por la tecnología y su capacidad para transformar vidas. Detrás de mi sonrisa hay una mente analítica y detallista, lista para enfrentar cualquier desafío que se presente. Vivo en Madrid con mi esposo y mi pequeña inspiración, Julia. ¡Un hogar lleno de amor y bits! ❤️💻
 
 -   🌟 **Exploradora de ideas:** Me encanta experimentar con tecnologías emergentes y encontrar formas creativas de aplicarlas a problemas reales.
