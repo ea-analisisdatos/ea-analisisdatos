@@ -73,7 +73,7 @@ Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡e
 <br>
 
 ## 🌱 Actualmente estoy trabajando en
-Aquí tienes algunos de los proyectos en los que he estado trabajando:
+Aquí tienes algunos de los proyectos que estoy desarrollando:
 
 | Repositorio | Descripción | Origen | Trabajo en Equipo? |
 |-------------|-------------|--------|--------------------|
