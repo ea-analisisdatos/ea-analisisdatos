@@ -139,5 +139,14 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
   
 ---
 
+### ☕❤️ **Donaciones: Ayúdame a seguir creando!**
 
-¡Gracias por visitar mi perfil!
+¿Te gusta lo que hago? 🌟 Tu apoyo es vital para que pueda continuar desarrollando recursos y proyectos que inspiran, educan y empoderan a la comunidad tecnológica. <br>
+¡Aquí tienes dos formas de contribuir y unirte a mi misión! 🚀💡
+
+-   **Invítame a un café** ☕: Una manera sencilla y rápida de mostrar tu apoyo. ¡Cada café cuenta! 👉 [Buy Me a Coffee](https://buymeacoffee.com/erika_alvares)
+-   **Conviértete en mi patrocinador** ❤️: Si quieres apoyar de manera continua o con un donativo especial, puedes hacerlo aquí. 👉 [GitHub Sponsors](https://github.com/sponsors/ea-analisisdatos)
+
+Gracias por ser parte de este viaje tecnológico. 🌍💻 ¡Cada aporte hace una gran diferencia! 🙌
+
+
