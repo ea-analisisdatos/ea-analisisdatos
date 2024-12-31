@@ -14,6 +14,14 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
 * ⚡  Nacida en Brasil, ahora vivo en Madrid con mi esposo y mi pequeña inspiración, Julia. ¡Un hogar lleno de amor y bits!  
 
 
+
+### Habilidades
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
+
+
 ## 📫 Cómo Contactarme
 
 <a href="https://www.erikaalvares.es" target="_blank" rel="noreferrer">
@@ -45,6 +53,7 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
 </a>
 
 
+
 ## 🤝 Busco colaborar en
 - Proyectos de Análisis de Datos, Ciencias de Datos, Desarrollo de Aplicaciones Web enfocado en soluciones de IA, campeonatos en Kaggle, hackatones.
 - Proyectos OPEN SOURCE o para aprender en conjunto.
@@ -58,6 +67,7 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
 - Mejores prácticas de visualización de datos.
 - Desarrollo Web con Python.
 
+***¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o idea de colaboración!***
 
 ## 🌱 Actualmente estoy trabajando en
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
@@ -65,6 +75,7 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 | Repositorio | Descripción | Origen | Trabajo en Equipo? |
 |-------------|-------------|--------|--------------------|
 | [Generador de Contenido Multilingüe](https://github.com/ea-analisisdatos/multilingual_content_generator) | Solución dirigida a creadores de contenido y profesionales del marketing para automatizar flujos de creación y personalización. | Por cuenta propia | No |
+
 
 
 ## - 📚 Últimos Proyectos Concluídos
@@ -81,11 +92,10 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 | [Análisis de Satisfacción en Aerolíneas](https://github.com/AI-School-F5-P3/G1_ML_Airline) | Predicción de satisfacción de clientes usando modelos de Machine Learning. | Factoría F5 | Sí |
 | [Web Scraping](https://github.com/AI-School-F5-P3/WebScraping_ErikaAlvares) | Extracción de datos automatizada desde la web para análisis. | Factoría F5 | No |
 | [Predicción de Fraudes en Tarjetas de Crédito](https://github.com/ea-analisisdatos/Programa_Inteligencia_Artificial) | Tratamiento de datos desbalanceados, uso de algoritmos Random Forest, Regresión Logística, Catboost, XGboost, técnicas de Ensembler, técnicas Undersampling y Oversampling, entrenamiento del modelo con mejor metrica, generación del .pkl y generación de informe en formato .pdf del mejor modelo, exportación automática del cuaderno de google colab en formato .pdf y html. | IBM SkillsBuild y SkillUp Online | No |
-
 ---
-***¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o idea de colaboración!***
 
----
+<br><br>
+
 ## - ⚡ Dato curioso: 
 - Me apasiona aprender nuevas habilidades.
 
@@ -95,14 +105,6 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 
 - [Artículos sobre Ciencia de Datos y más](https://www.erikaalvares.es/articulos)  
 - [Análisis Exploratorio en Python](https://www.erikaalvares.es/proyectos/analisis-exploratorio-en-python)  
-
----
-
-### Habilidades
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
 
 ---
 
@@ -125,21 +127,21 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 
 <div width="100%" align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <a href="https://github.com/ea-analisisdatos/proyectos">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
 <div width="100%" align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <a href="https://github.com/ea-analisisdatos/analisisdatoseventosdeportivos">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=analisisdatoseventosdeportivos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=analisisdatoseventosdeportivos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
 
 <div width="100%" align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <a href="https://github.com/ea-analisisdatos/fastAPI_RENDER_Template?tab=readme-ov-file">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=fastAPI_RENDER_Template&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=fastAPI_RENDER_Template&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
   </a></div><br />
   
----
 
-### ☕❤️ **Donaciones: Ayúdame a seguir creando!**
+
+## ☕❤️ **Donaciones: Ayúdame a seguir creando!**
 
 ¿Te gusta lo que hago? 🌟 Tu apoyo es vital para que pueda continuar desarrollando recursos y proyectos que inspiran, educan y empoderan a la comunidad tecnológica. <br>
 ¡Aquí tienes dos formas de contribuir y unirte a mi misión! 🚀💡
