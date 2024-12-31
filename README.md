@@ -13,45 +13,67 @@ Una ingeniera informática apasionada por las TICs, en especial por la ingenier�
 * 🤝  Estoy abierta a colaborar en proyectos de Data Analytics, Python, Power BI, etc.  
 * ⚡  Nacida en Brasil, ahora vivo en Madrid con mi esposo y mi pequeña inspiración, Julia. ¡Un hogar lleno de amor y bits!  
 
+
 ## 📫 Cómo Contactarme
 
-<a href="https://www.linkedin.com/in/erikaalvares" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-erikaalvares-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://buymeacoffee.com/erika_alvares" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-erika__alvares-orange?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy me a coffee" />
-</a>
 <a href="https://www.erikaalvares.es" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Website-erikaalvares.es-red?style=for-the-badge&logo=google-chrome" alt="Website" />
+</a>
+<a href="https://www.linkedin.com/in/erikaalvares" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://huggingface.co/erika-alvares" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Hugging%20Face-erika--alvares-yellow?style=for-the-badge&logo=huggingface" alt="Hugging Face" />
 </a>
 <a href="https://www.kaggle.com/datatecherikaalvares" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Kaggle-datatecherikaalvares-blue?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
 <a href="https://medium.com/@erikaalvares.portafolioweb" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Medium-erikaalvares.portafolioweb-black?style=for-the-badge&logo=medium" alt="Medium" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
 </a>
 <a href="https://t.me/+N3RlOTstV3ZjNDI0" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Telegram-Canal%20de%20Erika%20Alvares-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://discord.gg/tphs4xVV" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://buymeacoffee.com/erika_alvares" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
+</a>
+<a href="https://github.com/sponsors/ea-analisisdatos" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Github Sponsors" />
 </a>
 
-## 🌱 Actualmente Aprendiendo
+
+## 🤝 Busco colaborar en
+- Proyectos de Análisis de Datos, Ciencias de Datos, Desarrollo de Aplicaciones Web enfocado en soluciones de IA, campeonatos en Kaggle, hackatones.
+- Proyectos OPEN SOURCE o para aprender en conjunto.
+
+
+## 📖 Actualmente estoy aprendiendo
 
 - Inteligencia Artificial.
 - Técnicas avanzadas de aprendizaje automático (Machine Learning).
 - Aprendizaje profundo con TensorFlow y Keras, etc.
 - Mejores prácticas de visualización de datos.
+- Desarrollo Web con Python
 
-## 📚 Proyectos
+
+## 🌱 Actualmente estoy trabajando en
+Aquí tienes algunos de los proyectos en los que he estado trabajando:
+
+| Repositorio | Descripción | Origen | Trabajo en Equipo? |
+|-------------|-------------|--------|--------------------|
+| [Generador de Contenido Multilingüe](https://github.com/ea-analisisdatos/multilingual_content_generator) | Solución dirigida a creadores de contenido y profesionales del marketing para automatizar flujos de creación y personalización. | Por cuenta propia | No |
+
+
+## - 📚 Últimos Proyectos Concluídos
 
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
 | Repositorio | Descripción | Origen | Trabajo en Equipo? |
 |-------------|-------------|--------|--------------------|
 | [Proyectos](https://github.com/ea-analisisdatos/proyectos) | Portfolio de proyectos en Ciencia de Datos. | Por cuenta propia | Sí |
-| [Generador de Contenido Multilingüe](https://github.com/ea-analisisdatos/multilingual_content_generator) | Solución dirigida a creadores de contenido y profesionales del marketing para automatizar flujos de creación y personalización. | Por cuenta propia | No |
 | [Gestión de Tareas Pendientes con Python](https://github.com/ea-analisisdatos/Python-Full-Stack/tree/main/caso-practico-final) | Certificado SkillsBuild - IBM - Curso Python Full Stack abril 2024. | Bejob IBM | No |
 | [Genera Poemas con Inteligencia Artificial](https://github.com/ea-analisisdatos/GeneraPoemasAI) | Prototipo para la creación de poemas personalizados mediante inteligencia artificial. Explora el potencial de la IA en creatividad literaria bajo entornos con recursos limitados. | Por cuenta propia | No |
 | [Escuela de Música Armonía](https://github.com/AI-School-F5-P3/grupo5_musica_armonia) | Proyecto sobre la implementación de una solución para gestionar una escuela de música. | Factoría F5 | Sí |
