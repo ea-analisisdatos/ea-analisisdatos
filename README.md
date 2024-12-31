@@ -92,9 +92,7 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 | [Análisis de Satisfacción en Aerolíneas](https://github.com/AI-School-F5-P3/G1_ML_Airline) | Predicción de satisfacción de clientes usando modelos de Machine Learning. | Factoría F5 | Sí |
 | [Web Scraping](https://github.com/AI-School-F5-P3/WebScraping_ErikaAlvares) | Extracción de datos automatizada desde la web para análisis. | Factoría F5 | No |
 | [Predicción de Fraudes en Tarjetas de Crédito](https://github.com/ea-analisisdatos/Programa_Inteligencia_Artificial) | Tratamiento de datos desbalanceados, uso de algoritmos Random Forest, Regresión Logística, Catboost, XGboost, técnicas de Ensembler, técnicas Undersampling y Oversampling, entrenamiento del modelo con mejor metrica, generación del .pkl y generación de informe en formato .pdf del mejor modelo, exportación automática del cuaderno de google colab en formato .pdf y html. | IBM SkillsBuild y SkillUp Online | No |
----
 
-<br><br>
 
 ## - ⚡ Dato curioso: 
 - Me apasiona aprender nuevas habilidades.
