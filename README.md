@@ -21,7 +21,7 @@ Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡e
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
-
+<br>
 
 ## 📫 Cómo Contactarme
 
@@ -52,13 +52,13 @@ Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡e
 <a href="https://github.com/sponsors/ea-analisisdatos" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Github Sponsors" />
 </a>
-
+<br>
 
 
 ## 🤝 Busco colaborar en
 - Proyectos de Análisis de Datos, Ciencias de Datos, Desarrollo de Aplicaciones Web enfocado en soluciones de IA, campeonatos en Kaggle, hackatones.
 - Proyectos OPEN SOURCE o para aprender en conjunto.
-
+<br>
 
 ## 📖 Actualmente estoy aprendiendo
 
@@ -70,14 +70,14 @@ Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡e
 
 ***¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o idea de colaboración!***
 
+<br>
+
 ## 🌱 Actualmente estoy trabajando en
 Aquí tienes algunos de los proyectos en los que he estado trabajando:
 
 | Repositorio | Descripción | Origen | Trabajo en Equipo? |
 |-------------|-------------|--------|--------------------|
 | [Generador de Contenido Multilingüe](https://github.com/ea-analisisdatos/multilingual_content_generator) | Solución dirigida a creadores de contenido y profesionales del marketing para automatizar flujos de creación y personalización. | Por cuenta propia | No |
-
-
 
 ## - 📚 Últimos Proyectos Concluídos
 
@@ -94,20 +94,23 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 | [Web Scraping](https://github.com/AI-School-F5-P3/WebScraping_ErikaAlvares) | Extracción de datos automatizada desde la web para análisis. | Factoría F5 | No |
 | [Predicción de Fraudes en Tarjetas de Crédito](https://github.com/ea-analisisdatos/Programa_Inteligencia_Artificial) | Tratamiento de datos desbalanceados, uso de algoritmos Random Forest, Regresión Logística, Catboost, XGboost, técnicas de Ensembler, técnicas Undersampling y Oversampling, entrenamiento del modelo con mejor metrica, generación del .pkl y generación de informe en formato .pdf del mejor modelo, exportación automática del cuaderno de google colab en formato .pdf y html. | IBM SkillsBuild y SkillUp Online | No |
 
+<br>
 
-## - ⚡ Dato curioso: 
+## ⚡ Dato curioso: 
 - Me apasiona aprender nuevas habilidades.
 
-### Últimas Entradas del Blog
+<br>
+
+## Últimas Entradas del Blog
 
 Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 
 - [Artículos sobre Ciencia de Datos y más](https://www.erikaalvares.es/articulos)  
 - [Análisis Exploratorio en Python](https://www.erikaalvares.es/proyectos/analisis-exploratorio-en-python)  
-
 ---
 
-### Mis estadísticas de GitHub
+
+## Mis estadísticas de GitHub
 
 <b>Atualizaciones</b>
 
