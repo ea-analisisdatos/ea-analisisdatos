@@ -1,11 +1,12 @@
 # Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-Bienvenid@ a mi HARD SKILLS<br>
+Bienvenid@ a mi HARD SKILLS
 <a href="https://www.github.com/ea-analisisdatos" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ea-analisisdatos?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/ea-analisisdatos?logo=github&style=for-the-badge&color=a855f7&labelColor=54315d" /></a>
 ---
 
-## Soy Erika Alvares  
 
+
+## Soy Erika Alvares  
 Una ingeniera informática con una curiosidad insaciable por la tecnología y su capacidad para transformar vidas. Detrás de mi sonrisa hay una mente analítica y detallista, lista para enfrentar cualquier desafío que se presente. Vivo en Madrid con mi esposo y mi pequeña inspiración, Julia. ¡Un hogar lleno de amor y bits! ❤️💻
 
 -   🌟 **Exploradora de ideas:** Me encanta experimentar con tecnologías emergentes y encontrar formas creativas de aplicarlas a problemas reales.
@@ -15,8 +16,10 @@ Una ingeniera informática con una curiosidad insaciable por la tecnología y su
 
 Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡estás en el lugar indicado! 🎯
 
+### 🌐 Idiomas en los que puedes comunicarte conmigo 
+<span> ![🇧🇷](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Portugu%C3%A9s-%23b28cbd?style=for-the-badge&labelColor=%2354315d&logo=none) ![🇪🇸](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Espa%C3%B1ol-%236b6674?style=for-the-badge&labelColor=%2354315d&logo=none) ![🇮🇳](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-English-%23ece7be?style=for-the-badge&labelColor=%2354315d&logo=none) </span>
 
-### Habilidades
+### 🧠 Habilidades
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
