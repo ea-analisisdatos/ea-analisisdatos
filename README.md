@@ -166,3 +166,8 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 Gracias por ser parte de este viaje tecnológico. 🌍💻 ¡Cada aporte hace una gran diferencia! 🙌
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
