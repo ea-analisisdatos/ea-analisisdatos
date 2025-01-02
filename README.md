@@ -129,15 +129,15 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 
 <b>Atualizaciones</b>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ea-analisisdatos&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ea-analisisdatos&show_icons=true&theme=synthwave)
 
 <b>Contribuciones</b>
 
-<a href="http://www.github.com/ea-analisisdatos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ea-analisisdatos&stroke=ffffff&background=1c1917&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ea-analisisdatos&theme=synthwave&hide_border=false)
 
 <b>Lenguages de Programación más utilizadas</b>
 
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ea-analisisdatos&layout=compact&theme=radical)
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ea-analisisdatos&layout=compact&theme=synthwave)
 
 ---
 <b>Principales repositorios</b>
