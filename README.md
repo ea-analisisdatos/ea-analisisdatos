@@ -144,19 +144,17 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 
 <div width="100%" align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <a href="https://github.com/ea-analisisdatos/proyectos">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
 </a>
-<div width="100%" align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <a href="https://github.com/ea-analisisdatos/analisisdatoseventosdeportivos">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=analisisdatoseventosdeportivos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-
-<div width="100%" align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <a href="https://github.com/ea-analisisdatos/fastAPI_RENDER_Template?tab=readme-ov-file">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=fastAPI_RENDER_Template&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=analisisdatoseventosdeportivos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
   </a></div><br />
   
-
+  <div width="100%" align="left" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <a href="https://github.com/ea-analisisdatos/fastAPI_RENDER_Template?tab=readme-ov-file">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ea-analisisdatos&repo=fastAPI_RENDER_Template&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" />
+  </a></div><br />
+  
 
 ## ☕❤️ **Donaciones: Ayúdame a seguir creando!**
 
