@@ -174,3 +174,7 @@ Gracias por ser parte de este viaje tecnológico. 🌍💻 ¡Cada aporte hace un
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ea-analisisdatos/ea-analisisdatos/refs/heads/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ea-analisisdatos/ea-analisisdatos/refs/heads/output/github-snake.svg" />
 </picture>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ea-analisisdatos&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
