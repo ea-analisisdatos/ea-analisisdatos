@@ -123,9 +123,6 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 
 
 ## Mis estadísticas de GitHub 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ea-analisisdatos&label=Profile%20Views&color=54315d&icon=0&pretty=true"/>
-</a><br><br>
 
 <b>Atualizaciones</b>
 
