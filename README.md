@@ -52,7 +52,7 @@ Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡e
 <a href="https://t.me/+N3RlOTstV3ZjNDI0" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-<a href="https://discord.gg/tphs4xVV" target="_blank" rel="noreferrer">
+<a href="https://discord.gg/Scu8ewYZ3j" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 <a href="https://buymeacoffee.com/erika_alvares" target="_blank" rel="noreferrer">
