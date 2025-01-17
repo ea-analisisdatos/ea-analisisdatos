@@ -118,7 +118,8 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 
 - [Artículos sobre Ciencia de Datos y más](https://www.erikaalvares.es/articulos)  
-- [Análisis Exploratorio en Python](https://www.erikaalvares.es/proyectos/analisis-exploratorio-en-python)  
+- [Análisis Exploratorio en Python](https://www.erikaalvares.es/proyectos/analisis-exploratorio-en-python)
+- [Página de Artículos Linkedin](https://www.linkedin.com/company/datosclean/?viewAsMember=true)
 ---
 
 
