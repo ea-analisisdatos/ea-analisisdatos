@@ -30,7 +30,8 @@ Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡e
 ---
 
 🎓 **¿Quieres estudiar en UNIR como yo?**  
-Haz clic aquí y consigue un **descuento exclusivo** 👉  [![Estudia en UNIR](https://img.shields.io/badge/Estudia_en_UNIR-con_descuento-0055A4?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://recomendar.unir.net/PM51a4w)
+Haz clic aquí y consigue un **descuento exclusivo** 👉 🎓 [Haz clic aquí para estudiar en UNIR con descuento](https://recomendar.unir.net/PM51a4w)
+
 
 ---
 
