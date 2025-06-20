@@ -27,14 +27,6 @@ Una ingeniera informática con una curiosidad insaciable por la tecnología y su
 
 Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡estás en el lugar indicado! 🎯
 
----
-
-🎓 **¿Quieres estudiar en UNIR como yo?**  
-Haz clic aquí y consigue un **descuento exclusivo** 👉 🎓 [Haz clic aquí para estudiar en UNIR con descuento](https://recomendar.unir.net/PM51a4w)
-
-
----
-
 
 ### 🌐 Idiomas en los que puedes comunicarte conmigo 
 <span> ![🇧🇷](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Portugu%C3%A9s-%23b28cbd?style=for-the-badge&labelColor=%2354315d&logo=none) ![🇪🇸](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Espa%C3%B1ol-%236b6674?style=for-the-badge&labelColor=%2354315d&logo=none) ![🇮🇳](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-English-%23ece7be?style=for-the-badge&labelColor=%2354315d&logo=none) </span><br><br>
