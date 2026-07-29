@@ -30,7 +30,20 @@ Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡e
 
 ## 📫 Cómo Contactarme
 
-[![Website](https://img.shields.io/badge/Website-erikaalvares.es-red?style=flat-square&logo=google-chrome)](https://www.erikaalvares.es) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-erika--alvares-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/erika-alvares) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikaalvares) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datatecherikaalvares) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@erikaalvares.portafolioweb) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+N3RlOTstV3ZjNDI0) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Scu8ewYZ3j) [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/erika_alvares) [![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/ea-analisisdatos)
+<p align="center">
+  <a href="https://www.erikaalvares.es"><img src="https://img.shields.io/badge/Website-erikaalvares.es-red?style=flat-square&logo=google-chrome" alt="Website"></a>
+  <a href="https://huggingface.co/erika-alvares"><img src="https://img.shields.io/badge/Hugging%20Face-erika--alvares-yellow?style=flat-square&logo=huggingface" alt="Hugging Face"></a>
+  <a href="https://www.linkedin.com/in/erikaalvares"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/datatecherikaalvares"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://medium.com/@erikaalvares.portafolioweb"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
+
+<p align="center">
+  <a href="https://t.me/+N3RlOTstV3ZjNDI0"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://discord.gg/Scu8ewYZ3j"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://buymeacoffee.com/erika_alvares"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee"></a>
+  <a href="https://github.com/sponsors/ea-analisisdatos"><img src="https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Github Sponsors"></a>
+</p>
 
 ### 💻 Tecnologías y herramientas:
 
@@ -115,12 +128,12 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 ![Lenguajes Más Usados](https://github-readme-stats.shion.dev/api/top-langs/?username=ea-analisisdatos&layout=compact&theme=synthwave)
 
 ---
+
 <b>Principales repositorios</b>
 
 <p align="center">
   <a href="https://github.com/ea-analisisdatos/proyectos"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/ea-analisisdatos/analisisdatoseventosdeportivos"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=ea-analisisdatos&repo=analisisdatoseventosdeportivos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/ea-analisisdatos/fastAPI_RENDER_Template?tab=readme-ov-file"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=ea-analisisdatos&repo=fastAPI_RENDER_Template&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </p>
 
 ## ☕❤️ **Donaciones: Ayúdame a seguir creando!**
@@ -132,13 +145,3 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 -   **Conviértete en mi patrocinador** ❤️: Si quieres apoyar de manera continua o con un donativo especial, puedes hacerlo aquí. 👉 [GitHub Sponsors](https://github.com/sponsors/ea-analisisdatos)
 
 Gracias por ser parte de este viaje tecnológico. 🌍💻 ¡Cada aporte hace una gran diferencia! 🙌
-
----
-
-## Contributions in the last year
-![github-snake-dark](https://raw.githubusercontent.com/ea-analisisdatos/ea-analisisdatos/refs/heads/output/github-snake-dark.svg#gh-dark-mode-only)
-![github-snake-light](https://raw.githubusercontent.com/ea-analisisdatos/ea-analisisdatos/refs/heads/output/github-snake.svg#gh-light-mode-only)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ea-analisisdatos&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
