@@ -27,18 +27,30 @@ Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡e
 ### 🌐 Idiomas en los que puedes comunicarte conmigo 
 
 ![🇧🇷](https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%B7-Portugu%C3%A9s-%23b28cbd?style=flat-square&labelColor=%2354315d&logo=none) ![🇪🇸](https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8-Espa%C3%B1ol-%236b6674?style=flat-square&labelColor=%2354315d&logo=none) ![🇮🇳](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3-English-%23ece7be?style=flat-square&labelColor=%2354315d&logo=none) 
-<br><br>
 
 ## 📫 Cómo Contactarme
 
 [![Website](https://img.shields.io/badge/Website-erikaalvares.es-red?style=flat-square&logo=google-chrome)](https://www.erikaalvares.es) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-erika--alvares-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/erika-alvares) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikaalvares) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datatecherikaalvares) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@erikaalvares.portafolioweb) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/+N3RlOTstV3ZjNDI0) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Scu8ewYZ3j) [![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/erika_alvares) [![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/ea-analisisdatos)
-<br><br>
 
 ### 💻 Tecnologías y herramientas:
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-<br><br>
+**Desarrollo Web y Entornos**  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 
+**Lenguajes de Programación**  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+
+**Frameworks y Librerías**  
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
+
+**Data Science y Machine Learning**  
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+
+**Bases de Datos**  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+
+**Diseño y Gestión de Proyectos**  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
 ## 📖 Actualmente estoy aprendiendo
 
@@ -49,8 +61,6 @@ Si alguna vez te has preguntado cómo los datos pueden transformar el mundo, ¡e
 - Desarrollo Web con Python.
 
 ***¡No dudes en explorar mis repositorios y contactarme si tienes alguna pregunta o idea de colaboración!***
-
-<br>
 
 ## 🌱 Actualmente estoy trabajando en:
 
@@ -73,18 +83,12 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando:
 | [Web Scraping](https://github.com/AI-School-F5-P3/WebScraping_ErikaAlvares) | Extracción de datos automatizada desde la web para análisis. | Factoría F5 | No |
 | [Predicción de Fraudes en Tarjetas de Crédito](https://github.com/ea-analisisdatos/Programa_Inteligencia_Artificial) | Tratamiento de datos desbalanceados, uso de algoritmos Random Forest, Regresión Logística, Catboost, XGboost, técnicas de Ensembler, técnicas Undersampling y Oversampling, entrenamiento del modelo con mejor metrica, generación del .pkl y generación de informe en formato .pdf del mejor modelo, exportación automática del cuaderno de google colab en formato .pdf y html. | IBM SkillsBuild y SkillUp Online | No |
 
-<br>
-
-
 ## 🤝 Busco colaborar en
 - Proyectos de Análisis de Datos, Ciencias de Datos, Desarrollo de Aplicaciones Web enfocado en soluciones de IA, campeonatos en Kaggle, hackatones.
 - Proyectos OPEN SOURCE o para aprender en conjunto.
-<br>
 
 ## ⚡ Dato curioso: 
 - Me apasiona aprender nuevas habilidades.
-
-<br>
 
 ## Últimas Entradas del Blog
 
@@ -93,8 +97,8 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 - [Artículos sobre Ciencia de Datos y más](https://www.erikaalvares.es/articulos)  
 - [Análisis Exploratorio en Python](https://www.erikaalvares.es/proyectos/analisis-exploratorio-en-python)
 - [Página de Artículos Linkedin](https://www.linkedin.com/company/datosclean/?viewAsMember=true)
----
 
+---
 
 ## Mis estadísticas de GitHub 
 
@@ -116,12 +120,8 @@ Aquí tienes algunas de las últimas publicaciones que he realizado en mi blog:
 <p align="center">
   <a href="https://github.com/ea-analisisdatos/proyectos"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=ea-analisisdatos&repo=proyectos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/ea-analisisdatos/analisisdatoseventosdeportivos"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=ea-analisisdatos&repo=analisisdatoseventosdeportivos&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <br>
   <a href="https://github.com/ea-analisisdatos/fastAPI_RENDER_Template?tab=readme-ov-file"><img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=ea-analisisdatos&repo=fastAPI_RENDER_Template&title_color=00000&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </p>
-
-<br />
-  
 
 ## ☕❤️ **Donaciones: Ayúdame a seguir creando!**
 
@@ -136,9 +136,9 @@ Gracias por ser parte de este viaje tecnológico. 🌍💻 ¡Cada aporte hace un
 ---
 
 ## Contributions in the last year
-
 ![github-snake-dark](https://raw.githubusercontent.com/ea-analisisdatos/ea-analisisdatos/refs/heads/output/github-snake-dark.svg#gh-dark-mode-only)
 ![github-snake-light](https://raw.githubusercontent.com/ea-analisisdatos/ea-analisisdatos/refs/heads/output/github-snake.svg#gh-light-mode-only)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.shion.dev/api?username=ea-analisisdatos&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ea-analisisdatos&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
